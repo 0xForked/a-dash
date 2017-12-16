@@ -1,0 +1,16 @@
+auth system |___ Login
+            |    |______Forgot Password
+            |    |______Reset Password
+            |___ Register
+
+Dashboard   |--- Admin
+            |    |___ Home
+            |    |___ Setting
+            |    |        |______ General
+            |    |        |______ User management
+            |
+            |
+            ------ Members
+                        |___ Home
+                        |___ Profile
+                                |______ Edit Profile
