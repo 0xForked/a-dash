@@ -1,7 +1,7 @@
 # a-DASH
 
 1. <a href="https://github.com/bcit-ci/CodeIgniter">Codeigniter</a>
-2. <a href="https://github.com/benedmunds/CodeIgniter-Ion-Auth">Twig</a>
+2. <a href="https://github.com/benedmunds/CodeIgniter-Ion-Auth">Ion Auth</a>
 2. <a href="https://github.com/gurayyarar/AdminBSBMaterialDesign">AdminBSBMaterialDesign</a>
 
 <p align="center">
