@@ -5,8 +5,8 @@
 2. <a href="https://github.com/gurayyarar/AdminBSBMaterialDesign">AdminBSBMaterialDesign</a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aasumitro/a-dash/master/assets/origin/images/dash1.png" width="450">
-  <img src="https://raw.githubusercontent.com/aasumitro/a-dash/master/assets/origin/images/dash2.png" width="450">
+  <img src="https://raw.githubusercontent.com/aasumitro/a-dash/master/assets/origin/images/dash1.png" width="420">
+  <img src="https://raw.githubusercontent.com/aasumitro/a-dash/master/assets/origin/images/dash2.png" width="420">
 </p>
 <br>
 
